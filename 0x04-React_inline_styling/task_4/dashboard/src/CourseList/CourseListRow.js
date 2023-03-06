@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
 
   normal: {
     backgroundColor: "#f5f5f5ab",
-    color: "e2e2e2",
   },
 });
 
